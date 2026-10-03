@@ -1,0 +1,13 @@
+pytest
+playwright
+pytest-xdist
+pytest-html
+allure-pytest
+pytest-rerunfailures
+openpyxl
+Faker
+python-slugify
+
+#Once you have this file in your project root, install all dependencies in one go:
+ ## pip install -r requirements.txt
+ # if you run the project in other environment we need to download all necessary things instead we put all in one file and we dowload using above command
